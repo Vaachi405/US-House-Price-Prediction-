@@ -28,7 +28,6 @@ Seaborn
 # Project Structure
 data/: Contains the dataset files.  
 notebooks/: Jupyter notebooks for data exploration and model building.  
-src/: Source code for data processing, model training, and evaluation.  
 README.md: Project overview and instructions.  
 # Usage
 ## Data Preprocessing:
